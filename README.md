@@ -1,2 +1,2 @@
-# AsterEthiopianRestaurant-main
- updated Aster sites
+# AsterEthiopianRestaurant
+ An Ethiopian restaurant website
